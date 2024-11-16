@@ -1,2 +1,3 @@
 # Peerofy
-This is my firs git repository.
+This is my first git repository.
+Author -Anshika Shukla
